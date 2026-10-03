@@ -1,0 +1,21 @@
+{
+  "FormKey": "000F02:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_MaleCaptiveOutfitEdit",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Edit Captive Outfit"
+  },
+  "MenuDisplayObject": "0A6459:Skyrim.esm",
+  "EquipmentType": "013F44:Skyrim.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Add items to the custom captive outfit."
+  },
+  "CastType": "FireAndForget",
+  "Effects": [
+    {
+      "BaseEffect": "000F03:Surrender Bounty Hunter.esp",
+      "Data": {}
+    }
+  ]
+}

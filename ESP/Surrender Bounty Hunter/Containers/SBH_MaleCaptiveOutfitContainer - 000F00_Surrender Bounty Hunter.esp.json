@@ -1,0 +1,57 @@
+{
+  "FormKey": "000F00:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_MaleCaptiveOutfitContainer",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "SBH_CaptiveOutfitContainerScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ClothesPrisonerShoes",
+            "Object": "03CA00:Skyrim.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ClothesPrisonerTunic",
+            "Object": "03C9FE:Skyrim.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PrisonerCuffsPlayer",
+            "Object": "10E039:Skyrim.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SBH_CaptiveOutfitFLST",
+            "Object": "000EFF:Surrender Bounty Hunter.esp"
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Male Outfit"
+  },
+  "Items": [
+    {
+      "Item": {
+        "Item": "03C9FE:Skyrim.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "03CA00:Skyrim.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "10E039:Skyrim.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

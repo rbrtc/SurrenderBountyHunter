@@ -1,0 +1,416 @@
+{
+  "FormKey": "000008:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_CaptiveFollowQuest",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "SBH_CaptiveFollowQuestScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectListProperty",
+            "Name": "SBH_CaptiveAliases",
+            "Objects": [
+              {
+                "Name": "",
+                "Object": "000008:Surrender Bounty Hunter.esp",
+                "Alias": 0
+              },
+              {
+                "Name": "",
+                "Object": "000008:Surrender Bounty Hunter.esp",
+                "Alias": 1
+              },
+              {
+                "Name": "",
+                "Object": "000008:Surrender Bounty Hunter.esp",
+                "Alias": 2
+              },
+              {
+                "Name": "",
+                "Object": "000008:Surrender Bounty Hunter.esp",
+                "Alias": 3
+              },
+              {
+                "Name": "",
+                "Object": "000008:Surrender Bounty Hunter.esp",
+                "Alias": 4
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SBH_FemaleCaptiveOutfitEdit",
+            "Object": "0009F1:Surrender Bounty Hunter.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SBH_MaleCaptiveOutfitEdit",
+            "Object": "000F02:Surrender Bounty Hunter.esp"
+          }
+        ]
+      }
+    ],
+    "FileName": "",
+    "Aliases": [
+      {
+        "Property": {
+          "Name": "",
+          "Object": "000008:Surrender Bounty Hunter.esp",
+          "Alias": 0
+        },
+        "Scripts": [
+          {
+            "Name": "SBH_CaptiveRef",
+            "Properties": [
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveCount",
+                "Object": "000005:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveGoodbyeTopic",
+                "Object": "000038:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "WIDeadBodyCleanupCellMarker",
+                "Object": "1037F2:Skyrim.esm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Property": {
+          "Name": "",
+          "Object": "000008:Surrender Bounty Hunter.esp",
+          "Alias": 1
+        },
+        "Scripts": [
+          {
+            "Name": "SBH_CaptiveRef",
+            "Properties": [
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveCount",
+                "Object": "000005:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveGoodbyeTopic",
+                "Object": "000038:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "WIDeadBodyCleanupCellMarker",
+                "Object": "1037F2:Skyrim.esm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Property": {
+          "Name": "",
+          "Object": "000008:Surrender Bounty Hunter.esp",
+          "Alias": 2
+        },
+        "Scripts": [
+          {
+            "Name": "SBH_CaptiveRef",
+            "Properties": [
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveCount",
+                "Object": "000005:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveGoodbyeTopic",
+                "Object": "000038:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "WIDeadBodyCleanupCellMarker",
+                "Object": "1037F2:Skyrim.esm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Property": {
+          "Name": "",
+          "Object": "000008:Surrender Bounty Hunter.esp",
+          "Alias": 3
+        },
+        "Scripts": [
+          {
+            "Name": "SBH_CaptiveRef",
+            "Properties": [
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveCount",
+                "Object": "000005:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveGoodbyeTopic",
+                "Object": "000038:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "WIDeadBodyCleanupCellMarker",
+                "Object": "1037F2:Skyrim.esm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Property": {
+          "Name": "",
+          "Object": "000008:Surrender Bounty Hunter.esp",
+          "Alias": 4
+        },
+        "Scripts": [
+          {
+            "Name": "SBH_CaptiveRef",
+            "Properties": [
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveCount",
+                "Object": "000005:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "SBH_CaptiveGoodbyeTopic",
+                "Object": "000038:Surrender Bounty Hunter.esp"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "WIDeadBodyCleanupCellMarker",
+                "Object": "1037F2:Skyrim.esm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Flags": [
+    "StartGameEnabled",
+    "0x10",
+    "RunOnce"
+  ],
+  "Priority": 100,
+  "Type": "Misc",
+  "Objectives": [
+    {
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "<Alias=SBH_Captive1> is waiting for you"
+      },
+      "Targets": [
+        {
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Data": {
+                "MutagenObjectType": "GetActorValueConditionData",
+                "ActorValue": "WaitingForPlayer"
+              },
+              "ComparisonValue": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "<Alias=SBH_Captive2> is waiting for you"
+      },
+      "Targets": [
+        {
+          "AliasID": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Data": {
+                "MutagenObjectType": "GetActorValueConditionData",
+                "ActorValue": "WaitingForPlayer"
+              },
+              "ComparisonValue": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "<Alias=SBH_Captive3> is waiting for you"
+      },
+      "Targets": [
+        {
+          "AliasID": 2,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Data": {
+                "MutagenObjectType": "GetActorValueConditionData",
+                "ActorValue": "WaitingForPlayer"
+              },
+              "ComparisonValue": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "<Alias=SBH_Captive4> is waiting for you"
+      },
+      "Targets": [
+        {
+          "AliasID": 3,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Data": {
+                "MutagenObjectType": "GetActorValueConditionData",
+                "ActorValue": "WaitingForPlayer"
+              },
+              "ComparisonValue": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 4,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "<Alias=SBH_Captive5> is waiting for you"
+      },
+      "Targets": [
+        {
+          "AliasID": 4,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Data": {
+                "MutagenObjectType": "GetActorValueConditionData",
+                "ActorValue": "WaitingForPlayer"
+              },
+              "ComparisonValue": 1.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "NextAliasID": 6,
+  "Aliases": [
+    {
+      "Name": "SBH_Captive1",
+      "Flags": [
+        "Optional",
+        "StoresText"
+      ],
+      "Factions": [
+        "000009:Surrender Bounty Hunter.esp",
+        "000DB1:Skyrim.esm",
+        "000866:DB Surrender.esp",
+        "000850:DB Surrender.esp"
+      ],
+      "PackageData": [
+        "000007:Surrender Bounty Hunter.esp"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "ID": 1,
+      "Name": "SBH_Captive2",
+      "Flags": [
+        "Optional",
+        "StoresText"
+      ],
+      "Factions": [
+        "000009:Surrender Bounty Hunter.esp",
+        "000DB1:Skyrim.esm",
+        "000866:DB Surrender.esp",
+        "000850:DB Surrender.esp"
+      ],
+      "PackageData": [
+        "000007:Surrender Bounty Hunter.esp"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "ID": 2,
+      "Name": "SBH_Captive3",
+      "Flags": [
+        "Optional",
+        "StoresText"
+      ],
+      "Factions": [
+        "000009:Surrender Bounty Hunter.esp",
+        "000DB1:Skyrim.esm",
+        "000866:DB Surrender.esp",
+        "000850:DB Surrender.esp"
+      ],
+      "PackageData": [
+        "000007:Surrender Bounty Hunter.esp"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "ID": 3,
+      "Name": "SBH_Captive4",
+      "Flags": [
+        "Optional",
+        "StoresText"
+      ],
+      "Factions": [
+        "000009:Surrender Bounty Hunter.esp",
+        "000DB1:Skyrim.esm",
+        "000866:DB Surrender.esp",
+        "000850:DB Surrender.esp"
+      ],
+      "PackageData": [
+        "000007:Surrender Bounty Hunter.esp"
+      ],
+      "VoiceTypes": "Null"
+    },
+    {
+      "ID": 4,
+      "Name": "SBH_Captive5",
+      "Flags": [
+        "Optional",
+        "StoresText"
+      ],
+      "Factions": [
+        "000009:Surrender Bounty Hunter.esp",
+        "000DB1:Skyrim.esm",
+        "000866:DB Surrender.esp",
+        "000850:DB Surrender.esp"
+      ],
+      "PackageData": [
+        "000007:Surrender Bounty Hunter.esp"
+      ],
+      "VoiceTypes": "Null"
+    }
+  ]
+}

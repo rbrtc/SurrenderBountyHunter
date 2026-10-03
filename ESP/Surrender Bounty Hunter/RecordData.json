@@ -1,0 +1,25 @@
+{
+  "SpriggitSource": {
+    "PackageName": "Spriggit.Json.Skyrim",
+    "Version": "0.41"
+  },
+  "ModKey": "Surrender Bounty Hunter.esp",
+  "GameRelease": "SkyrimSE",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Author": "BobbytheEpic",
+    "MasterReferences": [
+      {
+        "Master": "Skyrim.esm",
+        "FileSize": 0
+      },
+      {
+        "Master": "DB Surrender.esp",
+        "FileSize": 0
+      }
+    ],
+    "INTV": 1
+  }
+}

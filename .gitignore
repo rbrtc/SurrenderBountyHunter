@@ -1,0 +1,7 @@
+.vscode/
+DialogueViews/
+*.code-workspace
+*.ppj
+*.esp
+*.pex
+meta.ini

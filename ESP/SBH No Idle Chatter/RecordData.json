@@ -1,0 +1,24 @@
+{
+  "SpriggitSource": {
+    "PackageName": "Spriggit.Json.Skyrim",
+    "Version": "0.41"
+  },
+  "ModKey": "SBH No Idle Chatter.esp",
+  "GameRelease": "SkyrimSE",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Author": "",
+    "MasterReferences": [
+      {
+        "Master": "Skyrim.esm",
+        "FileSize": 0
+      },
+      {
+        "Master": "Surrender Bounty Hunter.esp",
+        "FileSize": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "FormKey": "000007:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_CaptiveFollowPackage",
+  "Flags": [
+    "PreferredSpeed",
+    "AllowSwimming"
+  ],
+  "Type": "Package",
+  "PreferredSpeed": "Run",
+  "InterruptFlags": [
+    "HellosToPlayer",
+    "ObserveCombatBehavior",
+    "FriendlyFireComments",
+    "AllowIdleChatter",
+    "WorldInteractions",
+    "0x400",
+    "0x800",
+    "0x1000",
+    "0x2000",
+    "0x4000",
+    "0x8000"
+  ],
+  "ScheduleMonth": -1,
+  "ScheduleDayOfWeek": "Any",
+  "ScheduleHour": -1,
+  "ScheduleMinute": -1,
+  "Unknown3": "0x000000",
+  "CombatStyle": "05195F:Skyrim.esm",
+  "PackageTemplate": "0D530D:Skyrim.esm",
+  "DataInputVersion": 10,
+  "Data": [
+    {
+      "Key": 0,
+      "Value": {
+        "MutagenObjectType": "PackageDataTarget",
+        "Type": "SingleRef",
+        "Target": {
+          "MutagenObjectType": "PackageTargetSpecificReference",
+          "Reference": "000014:Skyrim.esm"
+        }
+      }
+    },
+    {
+      "Key": 1,
+      "Value": {
+        "MutagenObjectType": "PackageDataFloat",
+        "Data": 200.0
+      }
+    },
+    {
+      "Key": 2,
+      "Value": {
+        "MutagenObjectType": "PackageDataFloat",
+        "Data": 300.0
+      }
+    },
+    {
+      "Key": 6,
+      "Value": {
+        "MutagenObjectType": "PackageDataBool"
+      }
+    },
+    {
+      "Key": 9,
+      "Value": {
+        "MutagenObjectType": "PackageDataLocation",
+        "Location": {
+          "Target": {
+            "MutagenObjectType": "LocationFallback",
+            "Type": "NearSelf"
+          }
+        }
+      }
+    },
+    {
+      "Key": 11,
+      "Value": {
+        "MutagenObjectType": "PackageDataBool"
+      }
+    },
+    {
+      "Key": 26,
+      "Value": {
+        "MutagenObjectType": "PackageDataTarget",
+        "Type": "SingleRef",
+        "Target": {
+          "MutagenObjectType": "PackageTargetSpecificReference",
+          "Reference": "000014:Skyrim.esm"
+        }
+      }
+    },
+    {
+      "Key": 28,
+      "Value": {
+        "MutagenObjectType": "PackageDataFloat"
+      }
+    }
+  ],
+  "XnamMarker": "0x1E",
+  "OnBegin": {
+    "Topics": [
+      {
+        "MutagenObjectType": "TopicReference"
+      }
+    ]
+  },
+  "OnEnd": {
+    "Topics": [
+      {
+        "MutagenObjectType": "TopicReference"
+      }
+    ]
+  },
+  "OnChange": {
+    "Topics": [
+      {
+        "MutagenObjectType": "TopicReference"
+      }
+    ]
+  }
+}

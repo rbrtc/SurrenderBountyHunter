@@ -1,0 +1,15 @@
+{
+  "FormKey": "000009:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_CaptiveFaction",
+  "Relations": [
+    {
+      "Target": "000DB1:Skyrim.esm",
+      "Reaction": "Ally"
+    }
+  ],
+  "CrimeValues": {
+    "Arrest": true,
+    "AttackOnSight": true
+  },
+  "VendorValues": {}
+}

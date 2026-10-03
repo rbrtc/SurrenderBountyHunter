@@ -1,0 +1,58 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/MCM-Helper/main/docs/config.schema.json",
+  "modName": "Surrender Bounty Hunter",
+  "displayName": "Surrender Bounty Hunter",
+  "minMcmVersion": 15,
+  "pluginRequirements": [
+    "DB Surrender.esp"
+  ],
+  "cursorFillMode": "topToBottom",
+  "content": [
+    {
+      "text": "$Settings",
+      "type": "header"
+    },
+    {
+      "id": "bDisableFollowerDialogue:Main",
+      "text": "$SBH_DialogueToggle",
+      "type": "toggle",
+      "help": "$SBH_DialogueHelp",
+      "valueOptions": {
+        "sourceType": "ModSettingBool"
+      }
+    },
+    {
+      "id": "bEnableMaleOutfit:Main",
+      "text": "$SBH_MaleOutfitToggle",
+      "type": "toggle",
+      "help": "$SBH_MaleOutfitHelp",
+      "valueOptions": {
+        "sourceType": "ModSettingBool"
+      }
+    },
+    {
+      "id": "bEnableFemaleOutfit:Main",
+      "text": "$SBH_FemaleOutfitToggle",
+      "type": "toggle",
+      "help": "$SBH_FemaleOutfitHelp",
+      "valueOptions": {
+        "sourceType": "ModSettingBool"
+      }
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "id": "uCaptiveValue:Main",
+      "text": "$SBH_GoldSlider",
+      "type": "slider",
+      "help": "$SBH_GoldHelp",
+      "valueOptions": {
+        "min": 10,
+        "max": 1000,
+        "step": 10,
+        "sourceType": "ModSettingInt"
+      }
+    }
+  ]
+}

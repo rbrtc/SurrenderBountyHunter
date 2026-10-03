@@ -1,0 +1,10 @@
+{
+  "FormKey": "000012:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_CaptiveTradeBranch",
+  "Quest": "000008:Surrender Bounty Hunter.esp",
+  "Category": "Player",
+  "Flags": [
+    "TopLevel"
+  ],
+  "StartingTopic": "000013:Surrender Bounty Hunter.esp"
+}

@@ -1,0 +1,9 @@
+{
+  "FormKey": "000001:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_CaptureQuest",
+  "Flags": [
+    "StartGameEnabled",
+    "0x10"
+  ],
+  "NextAliasID": 0
+}

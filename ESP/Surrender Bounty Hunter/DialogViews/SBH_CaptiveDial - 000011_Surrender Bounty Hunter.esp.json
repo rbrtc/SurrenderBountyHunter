@@ -1,0 +1,14 @@
+{
+  "FormKey": "000011:Surrender Bounty Hunter.esp",
+  "EditorID": "SBH_CaptiveDial",
+  "Quest": "000008:Surrender Bounty Hunter.esp",
+  "Branches": [
+    "000012:Surrender Bounty Hunter.esp",
+    "000019:Surrender Bounty Hunter.esp",
+    "000022:Surrender Bounty Hunter.esp",
+    "000025:Surrender Bounty Hunter.esp"
+  ],
+  "TNAMs": [],
+  "ENAM": "0x00000000",
+  "DNAM": "0x01"
+}
