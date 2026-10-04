@@ -3,13 +3,13 @@
   "EditorID": "SBH_MaleCaptiveOutfitEdit",
   "Name": {
     "TargetLanguage": "English",
-    "Value": "Edit Captive Outfit"
+    "Value": "Edit Male Captive Outfit"
   },
   "MenuDisplayObject": "0A6459:Skyrim.esm",
   "EquipmentType": "013F44:Skyrim.esm",
   "Description": {
     "TargetLanguage": "English",
-    "Value": "Add items to the custom captive outfit."
+    "Value": "Add items to the custom male captive outfit."
   },
   "CastType": "FireAndForget",
   "Effects": [
