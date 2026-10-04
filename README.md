@@ -15,6 +15,8 @@ to capture them.
 # Requirements
 [Surrender - Enemies Yield and Comply with Your Demands](https://www.nexusmods.com/skyrimspecialedition/mods/139522)
 
+[MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
+
 ## Optional Requirements:
 
 [Bound hands - Helgen attack OAR or DAR animations - NPC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/143622) -
