@@ -51,7 +51,7 @@ You're coming with me. -> Follow me.
 I am turning in this criminal./I am turning in these criminals. ->
 Would I be able to collect a bounty?
 
-I left this a separate file because I felt the original options were more contextually and gramatically appropriate.
+I left this a separate file because I felt the original options were more contextually and grammatically appropriate.
 
 # Building the ESP
 
