@@ -26,7 +26,7 @@ them like bracelets.
 [Followers Don't Draw Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/3870)
 Or
 [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
-(Follower Outift & Gear -> Disable Weapon Draw) -
+(Follower Outfit & Gear -> Disable Weapon Draw) -
 Stops captives from unsheathing their weapons/hands when the player does. Keep in mind these mods apply to all followers.
 
 [Follower Equip Control](https://www.nexusmods.com/skyrimspecialedition/mods/175124) -
